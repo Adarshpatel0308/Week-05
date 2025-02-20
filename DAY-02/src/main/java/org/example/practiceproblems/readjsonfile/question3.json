@@ -1,0 +1,9 @@
+{
+  "name": "Adarsh Patel",
+  "email": "adarshpatel88899@gmail.com",
+  "age": 21,
+  "address": {
+    "city": "Bhopal",
+    "zip": "462010"
+  }
+}
