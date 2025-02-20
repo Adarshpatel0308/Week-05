@@ -1,0 +1,13 @@
+[ {
+  "city" : "Narmadapuram",
+  "name" : "adarsh",
+  "age" : "30"
+}, {
+  "city" : "Los Chandon",
+  "name" : "satyam",
+  "age" : "25"
+}, {
+  "city" : "Bhopal",
+  "name" : "rohit",
+  "age" : "28"
+} ]
